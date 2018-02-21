@@ -1,0 +1,17 @@
+.heading{
+    color: brown;
+    font-size: 2em;
+    text-align: center
+}
+.column-left{
+    float: left;
+    width: 15%;
+    height: 100vh;
+    background-color:  aqua;
+}
+.column-right{
+    float: right;
+    width: 15%;   
+   height: 100vh;
+    background-color:aquamarine;
+}
